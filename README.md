@@ -25,7 +25,7 @@ To work on this project on your local machine, you may follow the instructions b
 ## Project Notes
 
 Default balance when you register as merchant 0€
-Default balance when you register ad client 1000€
+Default balance when you register as client 1000€
 
 ## About Laravel
 
