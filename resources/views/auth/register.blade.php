@@ -62,6 +62,7 @@
                         </div>
 
                         <input hidden id="role_id" type="number" name="role_id" value="2" required>
+                        <input hidden id="balance" type="number" name="balance" value="1000" required>
 
                         <div class="form-group row mb-0">
                             <div class="col-md-6 offset-md-4">
