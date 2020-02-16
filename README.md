@@ -13,11 +13,14 @@ To work on this project on your local machine, you may follow the instructions b
 
 1. Clone this repository 
 2. Open your terminal and `cd` to your project folder
-3. Create your database and update your .env file
+3. Create your database and update your `.env` file
 3. Run the command below:
+
     ```bash
     php artisan migrate:fresh --seed
     ```
+
+4. Serve your project
 
 ## About Laravel
 
