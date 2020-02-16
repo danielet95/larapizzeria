@@ -22,6 +22,11 @@ To work on this project on your local machine, you may follow the instructions b
 
 4. Serve your project
 
+## Project Notes
+
+Default balance when you register as merchant 0€
+Default balance when you register ad client 1000€
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
